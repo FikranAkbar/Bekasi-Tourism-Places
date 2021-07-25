@@ -25,8 +25,9 @@ class MainActivity : AppCompatActivity() {
         tourismPlaceAdapter.setList(TourismPlacesData.listData)
         tourismPlaceAdapter.setOnItemClickCallback(object : TourismPlaceAdapter.OnItemClickCallback {
             override fun onItemClicked(data: TourismPlace) {
-                val intent = Intent()
+                val intent = Intent(this@MainActivity, DetailActivity::class.java)
                 intent.putExtra(DetailActivity.TOURISM_PLACE_DATA, data)
+                startActivity(intent)
             }
         })
         binding.rvTourismPlace.apply {
