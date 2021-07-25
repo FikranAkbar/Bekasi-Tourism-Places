@@ -91,6 +91,7 @@ object TourismPlacesData {
                 tourismPlace.operationHour = operationHours[position]
                 tourismPlace.ticketPrice = ticketPrices[position]
                 tourismPlace.imageHeader = imageHeaders[position]
+                list.add(tourismPlace)
             }
 
             return list
