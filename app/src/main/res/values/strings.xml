@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bekasi Tourism Places</string>
+    <string name="bekasi_tourism_place">Bekasi Tourism Place</string>
+    <string name="place_name">Place Name</string>
+    <string name="nulla_sit_amet_arcu_ultrices_fringilla_enim_ut_dictum_lacus_sed_at_urna_lacus_sed_rhoncus_bibendum_dui_in_dignissim_vestibulum_ut_eros_posuere_tristique_enim_non_tempus_mi_vestibulum_ante_ipsum_primis_in_faucibus_orci_luctus_et_ultrices_posuere_cubilia_curae_curabitur_at_velit_dui_curabitur_nec_risus_vel_sem_finibus_ultricies_a_quis_tellus_duis_dapibus_elit_ut_luctus_viverra">Nulla sit amet arcu ultrices, fringilla enim ut, dictum lacus. Sed at urna lacus. Sed rhoncus bibendum dui in dignissim. Vestibulum ut eros posuere, tristique enim non, tempus mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur at velit dui. Curabitur nec risus vel sem finibus ultricies a quis tellus. Duis dapibus elit ut luctus viverra.</string>
+    <string name="location">Location:</string>
+    <string name="jl_bekasi">Jl. Bekasi</string>
+    <string name="operation_hours">Operation Hours:</string>
+    <string name="_24_jam">24 Jam</string>
+    <string name="rp_100_000">Rp. 100.000</string>
+    <string name="ticket_price">Ticket Price:</string>
+</resources>
