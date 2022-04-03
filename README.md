@@ -5,7 +5,7 @@ Project for submission in "Belajar Membuat Aplikasi Android Untuk Pemula" course
 
 ### Demo
 
-<img src="https://github.com/FikranAkbar/GithubUser/blob/master/(1).gif"  height="440" /> <img src="https://github.com/FikranAkbar/GithubUser/blob/master/(2).gif"  height="440" />
+<img src="https://github.com/FikranAkbar/Bekasi-Tourism-Places/blob/master/(1).gif"  height="440" /> <img src="https://github.com/FikranAkbar/Bekasi-Tourism-Places/blob/master/(2).gif"  height="440" />
 
 ## Getting Started
 
