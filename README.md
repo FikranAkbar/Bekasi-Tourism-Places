@@ -16,7 +16,7 @@ Home | Detail
 
 ### Prerequisites
 
-There are several conditions before you can clone this project and connect it with your own firebase project and use the model you created yourself
+There are several conditions before you can clone this project:
 * [Android Studio](https://developer.android.com/?hl=id)
 * [Github Api Key](https://github.com/settings/tokens)
 
@@ -24,9 +24,8 @@ There are several conditions before you can clone this project and connect it wi
 
 Creating a token (if you didn't have yet) by reading [this documentation](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). When done, follow the steps below:
 1. Clone the repo https://github.com/FikranAkbar/Bekasi-Tourism_Place.git
-2. Replace "GithubUserApi" in gradle.properties file
-3. Build the project
-4. And you're good to go.
+2. Build the project
+3. And you're good to go.
 
 <!-- CONTRIBUTING -->
 ## Contributing
