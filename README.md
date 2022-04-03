@@ -5,7 +5,7 @@ Project for submission in "Belajar Membuat Aplikasi Android Untuk Pemula" course
 
 ## Built with
 
-* Android Studio with Kotlin
+- [Android Studio](https://developer.android.com/studio/)
 
 ### Demo
 Home | Detail
