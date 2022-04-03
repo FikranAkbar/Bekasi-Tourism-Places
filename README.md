@@ -4,8 +4,9 @@
 Project for submission in "Belajar Membuat Aplikasi Android Untuk Pemula" course dicoding. Bekasi Tourism Place is an application that listing the vacation spot in bekasi also detail like description, location, operation hours, and the ticket price
 
 ### Demo
-
-<img src="https://github.com/FikranAkbar/Bekasi-Tourism-Places/blob/master/(1).gif"  height="440" /> <img src="https://github.com/FikranAkbar/Bekasi-Tourism-Places/blob/master/(2).gif"  height="440" />
+Home | Detail
+--- | ---
+<img src="https://github.com/FikranAkbar/Bekasi-Tourism-Places/blob/master/(1).gif"  height="440" /> | <img src="https://github.com/FikranAkbar/Bekasi-Tourism-Places/blob/master/(2).gif"  height="440" />
 
 ## Getting Started
 
