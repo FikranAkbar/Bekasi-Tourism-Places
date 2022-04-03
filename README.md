@@ -1,7 +1,13 @@
 <!-- ABOUT THE PROJECT -->
-## Bekasi-Tourism-Places
+<h1 align="center">Bekasi Tourism Places</h1></br>
 
+<h5 align="center">
+Repository For Bekasi-Tourism-Places
+</h5>
+
+<p align="center">
 Project for submission in "Belajar Membuat Aplikasi Android Untuk Pemula" course dicoding. Bekasi Tourism Place is an application that listing the vacation spot in bekasi also detail like description, location, operation hours, and the ticket price
+</p>
 
 ## Built with
 
