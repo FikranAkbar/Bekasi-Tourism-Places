@@ -3,27 +3,9 @@
 
 Project for submission in "Belajar Membuat Aplikasi Android Untuk Pemula" course dicoding. Bekasi Tourism Place is an application that listing the vacation spot in bekasi also detail like description, location, operation hours, and the ticket price
 
-## Prerequisites
-
-Make sure you use Android Studio Arctic Fox (2020.3.1 Patch 4) or later and Kotlin 203-1.6.10 or later
-
 ## Built with
 
 * Android Studio with Kotlin
-* MVVM Architecture
-* Coroutines
-  * Flow
-* [Android Jetpack](https://developer.android.com/jetpack)
-  * [Android KTX](https://developer.android.com/kotlin/ktx)
-  * [Navigation](https://developer.android.com/guide/navigation)
-  * [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
-  * [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
-  * [DataStore](https://developer.android.com/topic/libraries/architecture/datastore)
-  * [ViewBinding](https://developer.android.com/topic/libraries/view-binding)
-* [Retrofit]()
-* [Shimmer]()
-* [Coil]()
-* [Midtrans]()
 
 ### Demo
 Home | Detail
